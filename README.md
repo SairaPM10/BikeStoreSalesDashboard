@@ -68,7 +68,7 @@ Working on this project was a valuable learning experience, reinforcing the impo
 - `BikeStoreSalesDashboard.xlsx`: The main Excel file containing the dashboard and data analysis.
   
 - `DashboardScreenshot.png`: A screenshot of the dashboard to provide a visual overview of the project.
-- 
+
   <img width="619" alt="Screenshot 2024-07-04 at 18 26 54" src="https://github.com/SairaPM10/BikeStoreSalesDashboard/assets/170266542/9bc8639d-6009-4fb7-a9be-7608e48ddb50">
 
 #ExcelDashboard #DataAnalysis #BusinessAnalytics #DataVisualization #ExcelSkills #PivotTables #ContinuousLearning
